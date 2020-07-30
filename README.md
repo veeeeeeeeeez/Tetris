@@ -1,4 +1,4 @@
-# Tetris
+# Tetris || DOWNLOAD TETRIS.ZIP AND RUN TETRISGAME.JAVA
 Tetris Clone, created using the Drawing Panel library created by UW Professors. 
 Controls: ||
 Left and Right Arrow Keys - Move left and right ||
